@@ -1,0 +1,22 @@
+{
+  "name": "github-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/salman-karim/github-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salman-karim/github-app/issues"
+  },
+  "homepage": "https://github.com/salman-karim/github-app#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
